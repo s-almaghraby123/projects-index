@@ -1,5 +1,8 @@
 # projects-index
 
+## Data projects
+- [investigate-a-dataset](https://github.com/s-almaghraby123/investigate-a-dataset)
+
 ## Web Projects
 - [ping-coming-soon-page](https://github.com/s-almaghraby123/ping-coming-soon-page-master)
 - [qr-code-component](https://github.com/s-almaghraby123/qr-code-component-main)
