@@ -1,6 +1,7 @@
 # projects-index
 
 ## Data projects
+- [healthcare-wait-dashboard](https://github.com/s-almaghraby123/healthcare-wait-dashboard)
 - [school_shootings](https://github.com/s-almaghraby123/school_shootings)
 - [data-analytics-excel](https://github.com/s-almaghraby123/data-analytics-excel)
 - [investigate-a-dataset](https://github.com/s-almaghraby123/investigate-a-dataset)
